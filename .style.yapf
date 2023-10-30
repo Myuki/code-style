@@ -1,3 +1,5 @@
 [style]
-based_on_style = yapf
+based_on_style = pep8
+indent_width = 2
 spaces_before_comment = 1
+split_all_top_level_comma_separated_values = true
